@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug Client",
+            "type": "chrome",
+            "request": "launch",
+            "preLaunchTask": "Watch Client",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}/src/Client",
+            "sourceMaps": true,
+            "sourceMapPathOverrides": {
+                "webpack:///*": "${workspaceFolder}/*",
+            }
+        }
+   ]
+}
