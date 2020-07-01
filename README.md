@@ -16,12 +16,21 @@ This is a small Fable app project so you can easily get started and add your own
   * Launches the app
   * Attaches the VS Code debugger to Chrome
 
+### Debug Console in VS Code
+Debug output is shown directly in VS Code:
+![image](https://user-images.githubusercontent.com/1781813/86228910-46c11d80-bb8f-11ea-9709-410f2aec56ee.png)
+
 Any modification you do to the F# code will be reflected in the web page after saving.
 
 ## Debugging the app
 
-* Set a breakpoint in VS Code (F9)
-* Run the code!
+1. Set a breakpoint in VS Code (F9)
+![image](https://user-images.githubusercontent.com/1781813/86229043-72dc9e80-bb8f-11ea-99e3-f88628861d04.png)
+2. Run the code!
+3. Use VS Code debugger to inspect call stack and variables etc.
+![image](https://user-images.githubusercontent.com/1781813/86229249-bcc58480-bb8f-11ea-8aac-779b14c1c6b9.png)
+![image](https://user-images.githubusercontent.com/1781813/86229276-c51dbf80-bb8f-11ea-8914-835af77e3d0c.png)
+![image](https://user-images.githubusercontent.com/1781813/86229317-d070eb00-bb8f-11ea-8844-038975aa0948.png)
 
 ## Project structure
 
