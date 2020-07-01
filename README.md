@@ -11,10 +11,14 @@ This is a small Fable app project so you can easily get started and add your own
 ## Building and running the app
 
 * Install JS dependencies: `npm install`
-* Install F# dependencies: `npm start`
-* After the first compilation is finished, in your browser open: http://localhost:8080/
+* In VS Code: F5
 
 Any modification you do to the F# code will be reflected in the web page after saving.
+
+## Debugging the app
+
+* Set a breakpoint in VS Code (F9)
+* Run the code!
 
 ## Project structure
 
