@@ -12,6 +12,9 @@ This is a small Fable app project so you can easily get started and add your own
 
 * Install JS dependencies: `npm install`
 * In VS Code: F5
+  * Calls `npm run start`
+  * Launches the app
+  * Attaches the VS Code debugger to Chrome
 
 Any modification you do to the F# code will be reflected in the web page after saving.
 
